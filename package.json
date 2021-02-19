@@ -1,0 +1,23 @@
+{
+  "name": "advanced-css-text-properties",
+  "version": "1.0.0",
+  "description": "Advanced CSS Text Properties",
+  "main": "index.js",
+  "scripts": {
+    "slides": "npx reveal-md advanced-css-text-properties.md",
+    "customcss": "npx reveal-md advanced-css-text-properties.md -w --css custom.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interglobalmedia/advanced-css-text-properties.git"
+  },
+  "author": "Maria D. Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interglobalmedia/advanced-css-text-properties/issues"
+  },
+  "homepage": "https://github.com/interglobalmedia/advanced-css-text-properties#readme",
+  "devDependencies": {
+    "reveal-md": "^5.0.0"
+  }
+}
